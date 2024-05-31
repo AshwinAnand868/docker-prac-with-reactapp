@@ -9,3 +9,4 @@ ENV API_URL=https://myapi.com
 EXPOSE 3000
 CMD ["npm", "start"]
 #ENTRYPOINT ["npm", "start"] - both CMD and this are default instructions but CMD has bit more flexibility
+# docker image tag b06 react-app:latest

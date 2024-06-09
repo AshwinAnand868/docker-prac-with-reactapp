@@ -12,3 +12,4 @@ CMD ["npm", "start"]
 # docker image tag b06 react-app:latest
 # making a dummy change to see that the newly pushed image to docker hub has the new tag and able to push quickly
 # learned sharing and loding images without using docker hub
+# yesterday learned starting containers - todays learnings viewing the logs

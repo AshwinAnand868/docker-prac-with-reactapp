@@ -13,3 +13,4 @@ CMD ["npm", "start"]
 # making a dummy change to see that the newly pushed image to docker hub has the new tag and able to push quickly
 # learned sharing and loding images without using docker hub
 # yesterday learned starting containers - todays learnings viewing the logs
+# learned executing commands in running containers, start or stop containers, and removing containers

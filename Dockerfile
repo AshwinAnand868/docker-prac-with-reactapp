@@ -15,3 +15,4 @@ CMD ["npm", "start"]
 # learned sharing and loding images without using docker hub
 # yesterday learned starting containers - todays learnings viewing the logs
 # learned executing commands in running containers, start or stop containers, and removing containers
+# learned techniques for cleaning the workspace

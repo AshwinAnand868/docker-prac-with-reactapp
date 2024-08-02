@@ -18,3 +18,4 @@ CMD ["npm", "start"]
 # learned techniques for cleaning the workspace
 # downloaded a simple already built sample application and understood JSON and YAML file formats
 # started learning about compose file but couldn't finish yesterday
+# building images learning started

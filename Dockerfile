@@ -19,3 +19,4 @@ CMD ["npm", "start"]
 # downloaded a simple already built sample application and understood JSON and YAML file formats
 # started learning about compose file but couldn't finish yesterday
 # building images learning started
+# building images learning finished and also learned starting and stopping the application

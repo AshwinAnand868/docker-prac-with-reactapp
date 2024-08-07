@@ -20,3 +20,5 @@ CMD ["npm", "start"]
 # started learning about compose file but couldn't finish yesterday
 # building images learning started
 # building images learning finished and also learned starting and stopping the application
+# logging the container logs
+# publishing the changes by mapping container to host

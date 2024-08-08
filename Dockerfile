@@ -22,3 +22,4 @@ CMD ["npm", "start"]
 # building images learning finished and also learned starting and stopping the application
 # logging the container logs
 # publishing the changes by mapping container to host
+# revised and had to relocate

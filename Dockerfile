@@ -24,3 +24,4 @@ CMD ["npm", "start"]
 # publishing the changes by mapping container to host
 # revised and had to relocate
 # finish the migrating the database lecture
+# finish the last lecture of multi-container apps of running test inside docker container

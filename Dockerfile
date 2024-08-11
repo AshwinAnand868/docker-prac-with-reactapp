@@ -23,3 +23,4 @@ CMD ["npm", "start"]
 # logging the container logs
 # publishing the changes by mapping container to host
 # revised and had to relocate
+# finish the migrating the database lecture

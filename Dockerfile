@@ -25,3 +25,4 @@ CMD ["npm", "start"]
 # revised and had to relocate
 # finish the migrating the database lecture
 # finish the last lecture of multi-container apps of running test inside docker container
+# completed deployment options

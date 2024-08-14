@@ -27,3 +27,4 @@ CMD ["npm", "start"]
 # finish the last lecture of multi-container apps of running test inside docker container
 # completed deployment options
 # completed getting a VPS and installing docker machine
+# completed provisioning a host and connecting to the host

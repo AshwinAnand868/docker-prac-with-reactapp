@@ -26,3 +26,4 @@ CMD ["npm", "start"]
 # finish the migrating the database lecture
 # finish the last lecture of multi-container apps of running test inside docker container
 # completed deployment options
+# completed getting a VPS and installing docker machine

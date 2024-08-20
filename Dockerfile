@@ -29,3 +29,4 @@ CMD ["npm", "start"]
 # completed getting a VPS and installing docker machine
 # completed provisioning a host and connecting to the host
 # revision for docker course introduction
+# started revision for linux command line

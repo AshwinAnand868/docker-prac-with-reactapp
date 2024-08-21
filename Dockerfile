@@ -28,5 +28,8 @@ CMD ["npm", "start"]
 # completed deployment options
 # completed getting a VPS and installing docker machine
 # completed provisioning a host and connecting to the host
-# revision for docker course introduction
-# started revision for linux command line
+
+# revision started again
+    # course introduction
+# started revision for linux command line part
+    # finished till finding in files and directories under linux command line
